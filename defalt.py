@@ -1,5 +1,14 @@
+#modules
 from os import system
 from time import sleep
+print("     _       __       _ _           ")
+print("  __| | ___ / _| __ _| | |_   _ __  _   _")
+print(" / _` |/ _ \ |_ / _` | | __| | '_ \| | | |")
+print("| (_| |  __/  _| (_| | | |_ _| |_) | |_| |")
+print(" \__,_|\___|_|  \__,_|_|\__(_) .__/ \__, |")
+print("                             |_|    |___/ ")
+sleep(1)
+
 
 #update_programs
 system('apt update -y')
@@ -37,7 +46,7 @@ print('######')
 print('#w3af#')
 print('######')
 sleep(1)
-system('apt-get install w3af')
+system('apt install w3af')
 #passgen
 system('clear')
 print('#########')
