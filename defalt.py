@@ -9,8 +9,6 @@ print(" \__,_|\___|_|  \__,_|_|\__(_) .__/ \__, |")
 print("                             |_|    |___/ ")
 sleep(3)
 
-system('cd')
-system('cd /home')
 #update_programs
 system('apt update -y')
 #git
